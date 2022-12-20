@@ -1,3 +1,8 @@
+
+ A simple react app to fetch all the details from the json placeholder dummy api with the functonality to add new album update the album and delete the particular album-
+ 
+ Hosted Link -https://harmonious-croissant-3d0fae.netlify.app/
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
